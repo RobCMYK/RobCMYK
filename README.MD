@@ -7,7 +7,7 @@ Alabama ANG Enterprise Operations
 I've been troubleshooting and developing for over 2 years—Top Secret clearance. Sec+ certified. ITF+ certified. experience with Linux systems, SQL, HTML, JavaScript, CSS, and Python.
 
 * 🌍  I'm based in Alabama
-* ✉️  You can contact me at [robemartinyt@gmail.com](mailto:robemartin04@hotmail.com)
+* ✉️  You can contact me at [robemartin04@hotmail.com](mailto:robemartin04@hotmail.com)
 * 🧠  I have learn CompTIA Net+, Sec+, and soon CySA+
 
 ### Skills
