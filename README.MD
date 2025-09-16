@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Alabama ANG Enterprise Operations
 ---------------------------------
 
-I've been troubleshooting and developing for over 2 years—Top Secret clearance. Sec+ certified. ITF+ certified. experience with Linux systems, SQL, HTML, Javascript, CSS, and Python.
+I've been troubleshooting and developing for over 2 years—Top Secret clearance. Sec+ certified. ITF+ certified. experience with Linux systems, SQL, HTML, JavaScript, CSS, and Python.
 
 * 🌍  I'm based in Alabama
 * ✉️  You can contact me at [robemartinyt@gmail.com](mailto:robemartin04@hotmail.com)
